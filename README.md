@@ -1,4 +1,5 @@
 # todo-vue
+Do it! Vue.js 연습 코드
 
 ## Project setup
 ```
