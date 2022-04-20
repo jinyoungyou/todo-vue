@@ -23,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Reference
+- [Do it! Beginning Vue.js](https://github.com/joshua1988/doit-vuejs/)
